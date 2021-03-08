@@ -1,0 +1,51 @@
+
+.trip {
+	background-color: #fff;
+	border-radius: 10px;
+	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+	display: flex;
+	max-width: 100%;
+	margin: 20px;
+	overflow: hidden;
+	border: 1px #dfdfdf double;
+}
+
+.trip h6 {
+	opacity: 0.6;
+	margin: 0;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+.trip h2 {
+	letter-spacing: 1px;
+	margin: 10px 0;
+}
+
+.trip-preview {
+	
+	background-color: #9894d4;
+	max-width: 300px;
+}
+
+.trip-info {
+	padding: 30px;
+	position: relative;
+	width: 100%;
+}
+
+
+.btn {
+	background-color: #2A265F;
+	border: 0;
+	border-radius: 50px;
+	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+	color: #fff;
+	font-size: 16px;
+	padding: 12px 25px;
+	position: absolute;
+	bottom: 30px;
+	right: 30px;
+	letter-spacing: 1px;
+}
+
